@@ -1,0 +1,33 @@
+body{background-color:#C0D8C0;}
+
+h1{
+  color:#65C18C;
+}
+
+h3{
+  color:#65C18C;
+}
+
+hr{ border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:5%}
+
+img {
+  width: 130px;
+  height: 130px;
+    border-radius: 100%
+    }
+
+img:hover{
+  background-color: gold;
+}
+
+.brien{
+  background-color: red;
+}
+
+.stewie{
+  background-color: green;
+}
